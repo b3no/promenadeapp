@@ -112,7 +112,7 @@
 		<div class="thirdcol"><div class="innerpaddingminor"><center>
 		<img src='img/featureCurated.png' width='80' height='80'/><br/>		
 		<span class='strong'>Search Suggestions</span><br/>
-		<span>Having trouble coming up with a place to start? No problem, Promenade provides a large list of suggetsions, guaranteed to provide great questions!</span>
+		<span>Having trouble coming up with a place to start? No problem, Promenade provides a large list of suggetsions, guaranteed to provide great questions.</span>
 		</center></div></div>	
 
 		<div class="thirdcol"><div class="innerpaddingminor"><center>
