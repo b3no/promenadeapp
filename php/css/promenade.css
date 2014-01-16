@@ -1,0 +1,25 @@
+html, body { width: 100%; height: 100%; min-width: 1024px; }
+body { font-family: 'Lato', sans-serif; font-weight:300; font-size: 18px; line-height: 28px; background: #f2f2f2; color: #333; padding: 0; margin: 0; position: relative; width: 100%; height: 100%; }
+a { color: #5B9DE8; text-decoration: underline; }
+h1 { padding: 0; margin: 0 0 0 0; font-size: 42px; line-height: 72px; font-weight: 300; }
+h2 { padding: 0; margin: 0 0 20px 0; font-size: 28px; line-height: 34px; font-weight: 300;  }
+p,li,ul,span { padding: 0; margin: 0 0 20px 0; font-size: 18px; line-height: 28px;  }
+.strong { font-weight:700;}
+.clear { clear: both; padding: 0; margin: 0; width: 0; height: 0; }
+#bigblue { height: 600px; overflow: hidden; background: #5B9DE8; width: 100%; }
+.column { width: 1024px; padding: 0; margin: 0 auto; height: 100%; }
+.subcolumn { width: 984px; padding-left: 20px; padding-right: 20px; margin: 0 auto; height: 100%; }
+.halfcol { width: 50%; float: left; }
+.thirdcol { width: 33%; float: left; }
+.innerpadding { padding: 0 40px; }
+.innerpaddingminor { padding: 0 20px; }
+#pathlogo { margin:auto -156px auto 0; padding:0 156px 0 0; height: 100%; width: 300px; float: left; background: url("../img/icon3white.png");}
+#summary { height: 100%; width: 100%; float: right;  max-width: 700px;}
+#header { height: 120px; background: url("../img/promenadeTitle.png") no-repeat left bottom; }
+#ipad { height: 480px; background: url("../img/ipad.png") no-repeat left center;}
+#appstore { height:60px;}
+#subtitle { background: #e2e2e2; height:80px;}
+.general { padding: 0;}
+.general p {font-size: 18px; line-height: 28px;  }
+.generaldark {background: #e2e2e2;}
+.generaldark p {font-size: 18px; line-height: 28px;  }
