@@ -74,7 +74,7 @@
 		<div class="clear"></div>
 				-->
 		
-	</div>
+	<!--</div>-->
 </div>
 
 <div class="generaldark">
@@ -146,6 +146,15 @@
 		<div class="clear"></div>
 		<br/>
 	</div>
+
+
+	<div class="subcolumn">
+		
+		<h1>Always Improving</h1>
+		<p>Promenade tries its best to find relevant questions whenever you use the custom search option. If the questions don't match your desired search term, try rephrasing it. Occasionally you'll get of a list questions that don't match - we know this happens from time to time, and while it'll never be 100%, we're constantly working on making it better! Help us out by letting us know what custom search questions we're missing.</p>
+	</div>
+	<br/>
+
 </div>
 <div class="general">
 <br/><br/>
