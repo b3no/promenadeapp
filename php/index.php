@@ -37,7 +37,10 @@
 </div>
 <br/>
 <center>
-<video src="https://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB.mp4" width="768" height="574" controls preload></video>
+<video width="768" height="574" controls preload>
+	<source src="https://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB.mp4" type="video/mp4" />
+	<source src="https://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB.ogv" type="video/ogg" />	
+</video>
 </center>
 <br/>
 <div class="general">
