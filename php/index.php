@@ -38,8 +38,8 @@
 <br/>
 <center>
 <video width="768" height="574" controls preload>
+	<source src="http://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB.webm" type='video/webm; codecs="vp8, vorbis"'>	
 	<source src="http://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
-	<source src="http://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB.webm" type='video/webm; codecs="vp8, vorbis"'>		
 	<!--<source src="http://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB.ogv" type='video/ogg; codecs="theora, vorbis"'>-->
 </video>
 </center>
