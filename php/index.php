@@ -42,7 +42,7 @@
 <!--<source src="http://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>-->
 <!---<source src="https://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB.webmsd.webm" type='video/webm; codecs="vp8, vorbis"'>-->
 <!--<source src="https://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB.oggtheora.ogv" type='video/ogg; codecs="theora, vorbis"'>-->
-<source src="https://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/output.webm" type='video/webm; codecs="vp8, vorbis"'>
+<source src="output.webm" type='video/webm; codecs="vp8, vorbis"'>
 
 </video>
 
