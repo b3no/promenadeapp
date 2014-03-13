@@ -39,9 +39,9 @@
 <center>
 
 <video width="768" height="574" controls preload>
-<source src="walkthroughHB.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
-<source src="walkthroughHB.webm" type='video/webm; codecs="vp8, vorbis"'>
-<source src="walkthroughHB.ogv" type='video/ogg; codecs="theora, vorbis"'>
+<source src="walkthroughHB2.mp4" type='video/mp4'>
+<source src="walkthroughHB.webm" type='video/webm'>
+<source src="walkthroughHB.ogv" type='video/ogg'>
 </video>
 
 </center>
