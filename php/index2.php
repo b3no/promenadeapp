@@ -38,9 +38,7 @@
 <br/>
 <center>
 
-<video width="768" height="574" controls preload>
-<source src="walkthroughHB3.mp4" type='video/mp4'>
-</video>
+<iframe width="768" height="576" src="//www.youtube.com/embed/no9zBNyrwaw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 </center>
 <br/>
