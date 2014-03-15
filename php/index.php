@@ -38,7 +38,7 @@
 <br/>
 <center>
 
-<video width="768" height="574" controls preload>
+<video width="768" height="574" controls preload="auto">
 <source src="https://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB3.mp4" type='video/mp4'>
 <source src="walkthroughHB.webm" type='video/webm'>
 <source src="walkthroughHB.ogv" type='video/ogg'>
