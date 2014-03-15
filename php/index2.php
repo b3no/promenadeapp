@@ -39,7 +39,7 @@
 <center>
 
 <video width="768" height="574" controls preload>
-<source src="walkthroughHB2.mp4" type='video/mp4'>
+<source src="walkthroughHB3.mp4" type='video/mp4'>
 </video>
 
 </center>
