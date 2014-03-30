@@ -46,7 +46,7 @@
 </video>
 -->
 
-<iframe src="//player.vimeo.com/video/90460922" width="500" height="374" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="//player.vimeo.com/video/90460922" width="768" height="574" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 </center>
 <br/>
