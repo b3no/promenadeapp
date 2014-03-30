@@ -38,11 +38,15 @@
 <br/>
 <center>
 
+<!--
 <video width="768" height="574" controls preload="auto">
 <source src="walkthroughHB.webm" type='video/webm'>
 <source src="walkthroughHB.ogv" type='video/ogg'>
 <source src="https://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB4.mp4" type='video/mp4'>
 </video>
+-->
+
+<iframe src="//player.vimeo.com/video/90460922" width="500" height="374" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 </center>
 <br/>
