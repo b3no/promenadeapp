@@ -192,13 +192,11 @@
 
 	<div class="subcolumn">
 		<h1>Press</h1><br/>
-		<h3>
-		Promenade has recently been featured by in the following publications:
-		<ul>
-		<li><a href='http://www.thespec.com/news-story/4621233-sister-brother-team-creates-alzheimer-s-app/'>The Hamilton Spectator</a></li>
-		<li><a href='http://dailynews.mcmaster.ca/article/all-in-the-family-new-dementia-app-brings-together-siblings-crosses-disciplines/'>McMaster University News</a></li>
-		</ul>
-		</h3>
+		<p>Promenade has recently been featured in the following publications:</p>
+		<span>
+		<a href='http://www.thespec.com/news-story/4621233-sister-brother-team-creates-alzheimer-s-app/'>The Hamilton Spectator</a></br>
+		<a href='http://dailynews.mcmaster.ca/article/all-in-the-family-new-dementia-app-brings-together-siblings-crosses-disciplines/'>McMaster University News</a>
+		</span>
 	</div>	
 
 
