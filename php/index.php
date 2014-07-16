@@ -34,6 +34,7 @@
 <span class='strong'>Listen to our recent interview on CBC Radio One's Metro Morning&nbsp;&nbsp;</span>
 <audio controls="controls" style="vertical-align: middle;">                                
   <source src="metromorning.mp3" type="audio/mpeg">
+  <source src="metromorning.m4a" type="audio/mp4">  
   <source src="metromorning.ogg" type="audio/ogg">
   <embed height="50" width="100" src="metromorning.mp3">
 </audio>
