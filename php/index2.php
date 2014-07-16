@@ -28,6 +28,19 @@
 <center><img src="img/promenadeSubTitle.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://itunes.apple.com/ca/app/promenade-revisit-life-memories/id782926783?mt=8'><img src='img/App_Store_Badge.png'/></a></center>
 </div>
 <br/>
+
+<center>
+<div>
+<span class='strong'>Listen to our recent interview on CBC Radio One's Metro Morning</span>
+<audio controls="controls" style="vertical-align: middle;">                                
+  <source src="metromorning.mp3" type="audio/mpeg">
+  <source src="metromorning.ogg" type="audio/ogg">
+  <embed height="50" width="100" src="metromorning.mp3">
+</audio>
+</div>
+</center>
+</br>
+
 <div class="general">
 	<div class="subcolumn">
 		<h1>What Is Promenade?</h1>
@@ -44,15 +57,6 @@
 <source src="https://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB4.mp4" type='video/mp4'>
 </video>
 -->
-
-<div>
-<span>Listen to our recent interview on CBC Radio One's Metro Morning</span>
-<audio autoplay="autoplay" controls="controls" style="vertical-align: middle;">                                
-  <source src="metromorning.mp3" type="audio/mpeg">
-  <source src="metromorning.ogg" type="audio/ogg">
-  <embed height="50" width="100" src="metromorning.mp3">
-</audio>
-</div>
 
 <iframe src="//player.vimeo.com/video/90460922" width="768" height="574" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 </center>
