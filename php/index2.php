@@ -39,7 +39,6 @@
 </audio>
 </div>
 </center>
-</br>
 
 <div class="general">
 	<div class="subcolumn">
@@ -190,6 +189,17 @@
 		- Joanne Brohman, Academic Co-ordinator, Recreation Therapy Program, Mohawk College
 		</h3>
 	</div>
+
+	<div class="subcolumn">
+		<h1>Press</h1><br/>
+		<h3>
+		Promenade has recently been featured by in the following publications:
+		<ul>
+		<li><a href='http://www.thespec.com/news-story/4621233-sister-brother-team-creates-alzheimer-s-app/'>The Hamilton Spectator</a></li>
+		<li><a href='http://dailynews.mcmaster.ca/article/all-in-the-family-new-dementia-app-brings-together-siblings-crosses-disciplines/'>McMaster University News</a></li>
+		</ul>
+		</h3>
+	</div>	
 
 
 	<div class="subcolumn">
