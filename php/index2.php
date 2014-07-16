@@ -27,7 +27,7 @@
 <div id="subtitle">
 <center><img src="img/promenadeSubTitle.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://itunes.apple.com/ca/app/promenade-revisit-life-memories/id782926783?mt=8'><img src='img/App_Store_Badge.png'/></a></center>
 </div>
-<br/>
+<br/><br/>
 
 <center>
 <div>
@@ -39,6 +39,7 @@
 </audio>
 </div>
 </center>
+<br/>
 
 <div class="general">
 	<div class="subcolumn">
@@ -199,7 +200,6 @@
 		</span>
 	</div>	
 
-	<br/>
 	<br/>
 
 	<div class="subcolumn">
