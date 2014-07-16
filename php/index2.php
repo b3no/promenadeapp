@@ -44,6 +44,16 @@
 <source src="https://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB4.mp4" type='video/mp4'>
 </video>
 -->
+
+<div>
+<span>Listen to our recent interview on CBC Radio One's Metro Morning</span>
+<audio autoplay="autoplay" controls="controls" style="vertical-align: middle;">                                
+  <source src="metromorning.mp3" type="audio/mpeg">
+  <source src="metromorning.ogg" type="audio/ogg">
+  <embed height="50" width="100" src="metromorning.mp3">
+</audio>
+</div>
+
 <iframe src="//player.vimeo.com/video/90460922" width="768" height="574" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 </center>
 
@@ -61,7 +71,7 @@
 		
 		<h1>What is Reminiscence Therapy?</h1>
 
-		<p>Reminiscence therapy is the heart and soul of Promenade. Reminiscence is a way of thinking back on past activities, events and experiences. It’s a powerful therapeutic approach that often improves mood and brings a person back to a reality they know and more importantly, understand. When living with dementia, less and less of one’s current surroundings make sense. With a dissipating short-term memory, feelings such as confusion, mistrust and anxiety are unfortunately all too common. Through reminiscence, a person with dementia can take pleasure in reviewing positive stories and events from days gone by. Use Promenade’s photos, questions and music to enhance your reminiscing experience.</p>
+		<p>Reminiscence therapy is the heart and soul of Promenade. Reminiscence therapy is a way of thinking back on past activities, events and experiences. It’s a powerful therapeutic approach that often improves mood and brings a person back to a reality they know and more importantly, understand. When living with dementia, less and less of one’s current surroundings make sense. With a dissipating short-term memory, feelings such as confusion, mistrust and anxiety are unfortunately all too common. Through reminiscing, a person with dementia can take pleasure in reviewing positive stories and events from days gone by. Use Promenade’s photos, questions and music to enhance your reminiscing experience.</p>
 	</div>
 
 		<!--
@@ -120,7 +130,7 @@
 		<div class="thirdcol"><div class="innerpaddingminor"><center>
 		<img src='img/featureCurated.png' width='80' height='80'/><br/>		
 		<span class='strong'>Search Suggestions</span><br/>
-		<span>Having trouble coming up with a place to start? No problem, Promenade provides a large list of suggetsions, guaranteed to provide great questions.</span>
+		<span>Having trouble coming up with a place to start? No problem, Promenade provides a large list of suggestions, guaranteed to provide great questions.</span>
 		</center></div></div>	
 
 		<div class="thirdcol"><div class="innerpaddingminor"><center>
