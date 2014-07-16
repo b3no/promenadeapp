@@ -27,7 +27,20 @@
 <div id="subtitle">
 <center><img src="img/promenadeSubTitle.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://itunes.apple.com/ca/app/promenade-revisit-life-memories/id782926783?mt=8'><img src='img/App_Store_Badge.png'/></a></center>
 </div>
+<br/><br/>
+
+<center>
+<div>
+<span class='strong'>Listen to our recent interview on CBC Radio One's Metro Morning&nbsp;&nbsp;</span>
+<audio controls="controls" style="vertical-align: middle;">                                
+  <source src="metromorning.mp3" type="audio/mpeg">
+  <source src="metromorning.ogg" type="audio/ogg">
+  <embed height="50" width="100" src="metromorning.mp3">
+</audio>
+</div>
+</center>
 <br/>
+
 <div class="general">
 	<div class="subcolumn">
 		<h1>What Is Promenade?</h1>
@@ -44,6 +57,7 @@
 <source src="https://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB4.mp4" type='video/mp4'>
 </video>
 -->
+
 <iframe src="//player.vimeo.com/video/90460922" width="768" height="574" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 </center>
 
@@ -61,7 +75,7 @@
 		
 		<h1>What is Reminiscence Therapy?</h1>
 
-		<p>Reminiscence therapy is the heart and soul of Promenade. Reminiscence is a way of thinking back on past activities, events and experiences. It’s a powerful therapeutic approach that often improves mood and brings a person back to a reality they know and more importantly, understand. When living with dementia, less and less of one’s current surroundings make sense. With a dissipating short-term memory, feelings such as confusion, mistrust and anxiety are unfortunately all too common. Through reminiscence, a person with dementia can take pleasure in reviewing positive stories and events from days gone by. Use Promenade’s photos, questions and music to enhance your reminiscing experience.</p>
+		<p>Reminiscence therapy is the heart and soul of Promenade. Reminiscence therapy is a way of thinking back on past activities, events and experiences. It’s a powerful therapeutic approach that often improves mood and brings a person back to a reality they know and more importantly, understand. When living with dementia, less and less of one’s current surroundings make sense. With a dissipating short-term memory, feelings such as confusion, mistrust and anxiety are unfortunately all too common. Through reminiscing, a person with dementia can take pleasure in reviewing positive stories and events from days gone by. Use Promenade’s photos, questions and music to enhance your reminiscing experience.</p>
 	</div>
 
 		<!--
@@ -120,7 +134,7 @@
 		<div class="thirdcol"><div class="innerpaddingminor"><center>
 		<img src='img/featureCurated.png' width='80' height='80'/><br/>		
 		<span class='strong'>Search Suggestions</span><br/>
-		<span>Having trouble coming up with a place to start? No problem, Promenade provides a large list of suggetsions, guaranteed to provide great questions.</span>
+		<span>Having trouble coming up with a place to start? No problem, Promenade provides a large list of suggestions, guaranteed to provide great questions.</span>
 		</center></div></div>	
 
 		<div class="thirdcol"><div class="innerpaddingminor"><center>
@@ -177,6 +191,16 @@
 		</h3>
 	</div>
 
+	<div class="subcolumn">
+		<h1>Press</h1><br/>
+		<p>Promenade has recently been featured in the following publications:</p>
+		<span>
+		<a href='http://www.thespec.com/news-story/4621233-sister-brother-team-creates-alzheimer-s-app/'>The Hamilton Spectator</a></br>
+		<a href='http://dailynews.mcmaster.ca/article/all-in-the-family-new-dementia-app-brings-together-siblings-crosses-disciplines/'>McMaster University News</a>
+		</span>
+	</div>	
+
+	<br/>
 
 	<div class="subcolumn">
 		<h1>Contact Us</h1><br/>
