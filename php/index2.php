@@ -31,7 +31,7 @@
 
 <center>
 <div>
-<span class='strong'>Listen to our recent interview on CBC Radio One's Metro Morning</span>
+<span class='strong'>Listen to our recent interview on CBC Radio One's Metro Morning&nbsp;&nbsp;</span>
 <audio controls="controls" style="vertical-align: middle;">                                
   <source src="metromorning.mp3" type="audio/mpeg">
   <source src="metromorning.ogg" type="audio/ogg">
