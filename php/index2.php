@@ -37,10 +37,16 @@
 </div>
 <br/>
 <center>
-
-<iframe width="768" height="576" src="//www.youtube.com/embed/no9zBNyrwaw?rel=0" frameborder="0" allowfullscreen></iframe>
-
+<!--
+<video width="768" height="574" controls preload="auto">
+<source src="walkthroughHB.webm" type='video/webm'>
+<source src="walkthroughHB.ogv" type='video/ogg'>
+<source src="https://dl.dropboxusercontent.com/u/19417682/promenadeapp.com/mov/walkthroughHB4.mp4" type='video/mp4'>
+</video>
+-->
+<iframe src="//player.vimeo.com/video/90460922" width="768" height="574" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 </center>
+
 <br/>
 <div class="general">
 	<div class="subcolumn">
@@ -158,8 +164,20 @@
 	<br/>
 
 </div>
+
 <div class="general">
-<br/><br/>
+<br/>
+
+
+	<div class="subcolumn">
+		<h1>Recommendations</h1><br/>
+		<h3>
+		Promenade is an excellent educational tool to teach the facilitation technique of reminiscing.  It provides users with vivid person focused images and supporting questions all with a touch of the screen.  Gone are the days of clumsy coffee table books!  Promenade is a welcomed resource to the field of Recreation Therapy!<br/><br/>
+		- Joanne Brohman, Academic Co-ordinator, Recreation Therapy Program, Mohawk College
+		</h3>
+	</div>
+
+
 	<div class="subcolumn">
 		<h1>Contact Us</h1><br/>
 		<div class="halfcol">
@@ -180,9 +198,9 @@
 		
 		<div class="clear"></div>
 
-		<br/><br/>
 	</div>
 </div>
+<br/>
 
 
 <script type="text/javascript">
