@@ -8,7 +8,7 @@
 <link href="https://fonts.googleapis.com/css?family=Lato:300,700" rel="stylesheet" type="text/css"/>
 <link href="css/promenade.css" rel="stylesheet" type="text/css"/>
 <link rel="icon" type="image/png" href="img/icon.png" />
-<title>Promenade - Revisit a Lifetime of Memories, Together</title>
+<title>Promenade - Revisit a Life of Memories, Together</title>
 </head>
 
 <body>
@@ -46,7 +46,7 @@
 	<div class="subcolumn">
 		<h1>What Is Promenade?</h1>
 
-		<p>Promenade is an iPad app designed for family members and caregivers to use when visiting loved ones living with dementia or related illnesses. Created by experts in the field of Gerontology and Therapeutic Recreation, Promenade is a tool that can help stimulate conversation, encourage reminiscence, and make personal visits more rewarding and engaging. Promenade presents groups of photographs based on user selected topics; however, it's much more than just an image search. Every topic is accompanied by a list of conversation based questions, as well as related topic suggestions to ensure there’s always something to talk about. Conversations will flow with ease as you and your loved one nostalgically discuss memories inspired by the countless photos and questions provided. Bring Promenade along for your next visit, and revisit a lifetime of memories, together.</p>
+		<p>Promenade is an iPad app designed for family members and caregivers to use when visiting loved ones living with dementia or related illnesses. Created by experts in the field of Gerontology and Therapeutic Recreation, Promenade is a tool that can help stimulate conversation, encourage reminiscence, and make personal visits more rewarding and engaging. Promenade presents groups of photographs based on user selected topics; however, it's much more than just an image search. Every topic is accompanied by a list of conversation based questions, as well as related topic suggestions to ensure there’s always something to talk about. Conversations will flow with ease as you and your loved one nostalgically discuss memories inspired by the countless photos and questions provided. Bring Promenade along for your next visit, and revisit a life of memories, together.</p>
 	</div>
 </div>
 <br/>
