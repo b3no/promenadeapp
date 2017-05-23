@@ -8,7 +8,7 @@
 <link href="https://fonts.googleapis.com/css?family=Lato:300,700" rel="stylesheet" type="text/css"/>
 <link href="css/promenade.css" rel="stylesheet" type="text/css"/>
 <link rel="icon" type="image/png" href="img/icon.png" />
-<title>Promenade - Revisit a Lifetime of Memories, Together</title>
+<title>Promenade - Revisit a Life of Memories, Together</title>
 </head>
 
 <body>
@@ -25,23 +25,16 @@
 	</div>
 </div>
 <div id="subtitle">
-<center><img src="img/promenadeSubTitle.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--<a href='https://itunes.apple.com/ca/app/promenade-revisit-life-memories/id782926783?mt=8'><img src='img/App_Store_Badge.png'/></a>--></center>
+<center><img src="img/promenadeSubTitle.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://itunes.apple.com/ca/app/promenade-revisit-life-memories/id782926783?mt=8'><img src='img/App_Store_Badge.png'/></a></center>
 </div>
 <br/><br/>
-<hr align='center' width="50%">
-<div class="general">
-	<div class="subcolumn">
-		<p><strong>UPDATE (April 2017):</strong> Promenade has been temporarily removed from the App Store while we try and fix some issues that have been causing requests from the app to fail.  We hope to have this resolved in a future update, and we apologize to anyone who's been experiencing problems using the app.</p>
-	</div>
-</div>
-<hr align='center' width="50%">
-<br/>
 
 <center>
 <div>
 <span class='strong'>Listen to our recent interview on CBC Radio One's Metro Morning&nbsp;&nbsp;</span>
 <audio controls="controls" style="vertical-align: middle;">                                
   <source src="metromorning.mp3" type="audio/mpeg">
+  <source src="metromorning.m4a" type="audio/mp4">  
   <source src="metromorning.ogg" type="audio/ogg">
   <embed height="50" width="100" src="metromorning.mp3">
 </audio>
@@ -53,7 +46,7 @@
 	<div class="subcolumn">
 		<h1>What Is Promenade?</h1>
 
-		<p>Promenade is an iPad app designed for family members and caregivers to use when visiting loved ones living with dementia or related illnesses. Created by experts in the field of Gerontology and Therapeutic Recreation, Promenade is a tool that can help stimulate conversation, encourage reminiscence, and make personal visits more rewarding and engaging. Promenade presents groups of photographs based on user selected topics; however, it's much more than just an image search. Every topic is accompanied by a list of conversation based questions, as well as related topic suggestions to ensure there’s always something to talk about. Conversations will flow with ease as you and your loved one nostalgically discuss memories inspired by the countless photos and questions provided. Bring Promenade along for your next visit, and revisit a lifetime of memories, together.</p>
+		<p>Promenade is an iPad app designed for family members and caregivers to use when visiting loved ones living with dementia or related illnesses. Created by experts in the field of Gerontology and Therapeutic Recreation, Promenade is a tool that can help stimulate conversation, encourage reminiscence, and make personal visits more rewarding and engaging. Promenade presents groups of photographs based on user selected topics; however, it's much more than just an image search. Every topic is accompanied by a list of conversation based questions, as well as related topic suggestions to ensure there’s always something to talk about. Conversations will flow with ease as you and your loved one nostalgically discuss memories inspired by the countless photos and questions provided. Bring Promenade along for your next visit, and revisit a life of memories, together.</p>
 	</div>
 </div>
 <br/>
