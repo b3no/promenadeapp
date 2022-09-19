@@ -6,6 +6,7 @@ h2 { padding: 0; margin: 0 0 20px 0; font-size: 28px; line-height: 34px; font-we
 h3 { padding: 0; margin: 0 0 20px 0; font-size: 20px; line-height: 28px; font-weight: 300; font-style: italic;  }
 p,li,ul,span { padding: 0; margin: 0 0 20px 0; font-size: 18px; line-height: 28px;  }
 .strong { font-weight:700;}
+.strongred { font-weight:700; color: red}
 .clear { clear: both; padding: 0; margin: 0; width: 0; height: 0; }
 #bigblue { height: 600px; overflow: hidden; background: #5B9DE8; width: 100%; }
 .column { width: 1024px; padding: 0; margin: 0 auto; height: 100%; }
